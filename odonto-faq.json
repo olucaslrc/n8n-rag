@@ -1,0 +1,38 @@
+{
+"FAQ": {
+"horario_funcionamento": "Nosso consultório funciona de segunda a sexta, das 08h às 18h, e aos sábados das 08h às 12h.",
+"localizacao": "Estamos na Rua das Flores, 123, Bairro Centro, Cidade X.",
+"servicos_oferecidos": [
+"Limpeza e profilaxia",
+"Clareamento dental",
+"Tratamento de cáries",
+"Implantes dentários",
+"Ortodontia (aparelhos)",
+"Próteses dentárias",
+"Tratamento de canal",
+"Estética dental"
+],
+"agendamento": {
+"telefone": "(XX) XXXX-XXXX",
+"whatsapp": "(XX) XXXXX-XXXX",
+"site": "www.ribeiroodontologia.com",
+"presencial": "Sim"
+},
+"aceita_convenios": "Sim, aceitamos diversos planos odontológicos. Entre em contato para verificar se o seu convênio é aceito.",
+"formas_pagamento": [
+"Dinheiro",
+"Cartões de crédito e débito",
+"Pix",
+"Parcelamento no cartão de crédito (consulte condições)"
+],
+"urgencias": "Sim, temos atendimento emergencial. Entre em contato pelo WhatsApp ou telefone para verificar a disponibilidade.",
+"idade_minima": "Atendemos crianças a partir dos 3 anos de idade.",
+"clareamento_dental": "Oferecemos clareamento a laser e caseiro. O tratamento será recomendado conforme avaliação do dentista.",
+"contato": {
+"telefone": "(XX) XXXX-XXXX",
+"whatsapp": "(XX) XXXXX-XXXX",
+"email": "contato@ribeiroodontologia.com",
+"redes_sociais": "@ribeiroodontologia"
+}
+}
+}
